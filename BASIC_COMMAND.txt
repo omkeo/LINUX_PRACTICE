@@ -1,0 +1,13 @@
+------------------BASIC COMMANDS OF LINUX ------------------------
+
+tty -                                    -- show the current terminal number      
+uname -a                                 -- Show the os related or kernal unfo 
+cal                                      -- Shows the calendr
+hostaname                                -- Display the hostname or machine name
+cal -j                                   -- Shows the julian data ( 1-365 )
+date & time                              -- Show the current date and time  
+cat                                      -- Use to check content in file 
+shutdown -h(10) , -c                     -- It will shutdown our System in 10min (-c cancel shutdown )
+whoami                                   -- Show user name 
+who am i                                 -- Shows user details
+who                                      -- user's login details
